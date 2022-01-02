@@ -1,0 +1,4 @@
+b=np.array([int(x==4) for x in range(10)])
+print(b)
+ output:
+ [0 0 0 0 1 0 0 0 0 0]
